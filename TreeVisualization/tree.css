@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+}
+
+body{
+    background:linear-gradient(45deg,hsl(100,50%,50%),hsl(200,50%,50%));
+    height:1200px;
+}
+
+
+main{
+    margin:2em;
+    padding:2em;
+}
+
+svg{
+    
+}
+
+path{
+    fill:none;
+    stroke:black;
+}

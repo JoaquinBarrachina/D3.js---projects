@@ -1,0 +1,43 @@
+
+html{
+    background:white;
+}
+body{
+    
+    opacity:0.9;
+    overflow: hidden;
+    margin:0px;
+}
+
+svg{
+    padding:10px;
+}
+
+.country{
+    fill:lightgreen;
+    stroke:black;
+    stroke-width:0.5;
+    
+}
+
+.sphere{
+    fill:lightseagreen;
+}
+
+main{
+    padding:10px;
+}
+
+.main-header{
+    font-family: sans-serif;
+    margin-left:10px;
+    font-weight:900;
+    text-decoration:underline;
+    
+}
+
+
+.country:hover{
+    fill:purple;
+    opacity:0.8;
+}
